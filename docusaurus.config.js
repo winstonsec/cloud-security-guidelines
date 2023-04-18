@@ -3,8 +3,8 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-const organizationName = "<github-organization-name>";
-const projectName = "<repository-name>";
+const organizationName = "winstonsec";
+const projectName = "cloud-security-guidelines";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'My Site',
