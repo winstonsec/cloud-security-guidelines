@@ -16,5 +16,5 @@ Nesse guia, te ajudaremos a implementar aplicações seguras usando **AWS**, **T
 ## What's next?
 
 - Leia a documentação de segurança para conhecer os [principais serviços com hardening](https://docusaurus.io/)!
-- Conheça o gerador de templates em terraform [Em Breve](/docs/cloud-security/aws-segura)
-- Conheça o repo com os exemplos de código seguro [Em Breve](/docs/cloud-security/aws-segura)
+- Conheça o gerador de templates em terraform [Em Breve](/)
+- Conheça o repo com os exemplos de código seguro [Em Breve](/)

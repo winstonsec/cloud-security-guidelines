@@ -117,5 +117,5 @@ resource "aws_s3_bucket_logging" "template_bucket" {
 ## What's next?
 
 - Leia a documentação de segurança para conhecer os [principais serviços com hardening](https://docusaurus.io/)!
-- Conheça o gerador de templates em terraform [Em Breve](/docs/cloud-security/aws-segura)
-- Conheça o repo com os exemplos de código seguro [Em Breve](/docs/cloud-security/aws-segura)
+- Conheça o gerador de templates em terraform [Em Breve](/docs/category/cloud-security)
+- Conheça o repo com os exemplos de código seguro [Em Breve](/docs/category/cloud-security)
