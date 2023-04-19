@@ -7,7 +7,7 @@ const organizationName = "winstonsec";
 const projectName = "cloud-security-guidelines";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'Cloud Security Guidelines',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -59,15 +59,19 @@ const config = {
     ],
   ],
 
+  plugins: [
+    ['drawio', {}],
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Cloud Security Guidelines',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Cloud Security Guidelines Logo',
           src: 'img/logo.svg',
         },
         items: [
